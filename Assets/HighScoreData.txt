@@ -1,2 +1,4 @@
 Hieu|10
 Hieu|20
+hieu|40
+Phat|790

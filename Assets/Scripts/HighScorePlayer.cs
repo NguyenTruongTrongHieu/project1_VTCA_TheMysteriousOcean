@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class HighScorePlayer : MonoBehaviour
+public class HighScorePlayer
 {
     public string NamePlayer;
     public int Score;
